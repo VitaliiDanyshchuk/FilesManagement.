@@ -1,0 +1,12 @@
+----------OUTPUT-----------
+Count of lines = 2660048
+
+----STRING.SPLIT-----
+
+Count of error lines = 332
+Error counting time in string split - 6138 ms
+
+----FILES.LINES-----
+
+Second count of errors 332
+Error counting time in files lines - 1851 ms
